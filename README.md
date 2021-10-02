@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Salut 👋, je suis Nolhan</h1>
+<h3 align="center">Je suis un apprenti développeur qui adore la musique et les nouvelles technologies</h3>
 
-<!--
-**Nonolanlan1007/Nonolanlan1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Pour l'instant, je travaille sur [YopBot](https://github.com/Nonolanlan1007/Yop-Bot).
 
-Here are some ideas to get you started:
+- 🌱 J'apprends l'**HTML/CSS** !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contactez-moi par mail : **nolhan.dev@gmail.com** ou sur Discord : `Nolhan#2508` !
+
+<h3 align="left">Plus de moi :</h3>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nonolanlan1007&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nonolanlan1007&show_icons=true&theme=tokyonight&layout=compact" />
