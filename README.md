@@ -1,17 +1,27 @@
-<h1 align="center">Salut 👋, je suis Nolhan</h1>
-<h3 align="center">Je suis un apprenti développeur qui adore la musique et les nouvelles technologies</h3>
+<h1 align="center">Salut 👋, j’en suis Nolhan</h1>
+<h3 align="center">Développeur français passionné d’informatique</h3>
 
-- 🔭 Pour l'instant, je travaille sur [PubTool](https://pubtool.xyz) et sur [IgeMail](https://mail.igecorp.xyz).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nonolanlan1007&label=Vues&color=f5ec00&style=flat" alt="nonolanlan1007" /> </p>
 
-- 🌱 J'apprends l'**HTML/CSS** !
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonolanlan1007" alt="nonolanlan1007" /></a> </p>
 
-- 📫 Contactez-moi par mail : **nolhan.dev@gmail.com** ou sur Discord : `Nolhan#2508` !
+- 🔭 J’en travaille actuellement sur [JokeMan](https://github.com/Nonolanlan1007/JokeMan)
 
-<h3 align="left">Plus de moi :</h3>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+- 🌱 J’apprends actuellement **TypeScript**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nonolanlan1007&show_icons=true&hide_border=true&theme=tokyonight" />
+- 👯 Je collabore avec [la IgeCorp](https://github.com/IgeCorp)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nonolanlan1007&show_icons=true&theme=tokyonight&layout=compact" />
+- 📫 Contactez-moi/Engagez-moi **nolhan.dev@gmail.com**
+
+- ⚡ Fun fact **J’aime beaucoup les jeux de simulation 👀**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonolanlan1007&show_icons=true&theme=onedark&locale=fr&layout=compact" alt="nonolanlan1007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonolanlan1007&show_icons=true&theme=onedark&locale=fr" alt="nonolanlan1007" /></p>
