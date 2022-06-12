@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **J’aime beaucoup les jeux de simulation 👀**
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/692374264476860507)](https://discord.com/users/692374264476860507)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
