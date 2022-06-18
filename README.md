@@ -7,7 +7,7 @@
 
 - 🔭 J’en travaille actuellement sur [JokeMan](https://github.com/Nonolanlan1007/JokeMan)
 
-- 🌱 J’apprends actuellement **TypeScript**
+- 🌱 J’apprends actuellement **PoerShell**
 
 - 👯 Je collabore avec [la IgeCorp](https://github.com/IgeCorp)
 
