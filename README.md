@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonolanlan1007" alt="nonolanlan1007" /></a> </p>
 
-- 🔭 J’en travaille actuellement sur [JokeMan](https://github.com/Nonolanlan1007/JokeMan)
+- 🔭 J’en travaille actuellement sur [YopBot](https://github.com/Nonolanlan1007/YopBot)
 
 - 🌱 J’apprends actuellement **TypeScript**
 
