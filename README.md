@@ -7,7 +7,7 @@
 
 - 🔭 J’en travaille actuellement sur un [raccourcisseur d'URL](https://github.com/Nonolanlan1007/url-shorter)
 
-- 🌱 J'apprends actuellement **l'HTML & le CSS**
+- 🌱 J'apprends actuellement **VueJS**
 
 - 👯 Je collabore avec [la IgeCorp](https://github.com/IgeCorp)
 
