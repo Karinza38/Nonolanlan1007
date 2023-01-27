@@ -19,6 +19,19 @@
           "required": true, 
           "default": "782644006190055486", 
           "help": "https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID" 
+        },
+        {
+          "type": "boolean", 
+          "name": "Auto-modération",
+          "description": "Activer l'automodération ou non", 
+          "required": true, 
+          "default": true
+        },
+        {
+          "type": "number", 
+          "name": "anti-spam",
+          "description": "Nombre de messages maximum en 15 secondes avant déclanchement de l'anti-spam",
+          "required": false
         }
       ]
     }
