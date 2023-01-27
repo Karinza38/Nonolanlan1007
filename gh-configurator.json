@@ -1,7 +1,26 @@
 {
   "configs": [
     {
-      "title": "Token"
+      "type": "json", 
+      "path": "configs/config.json", 
+      "values": [
+        {
+          "type": "string",
+          "name": "token",
+          "description": "Token du bot",
+          "required": true,
+          "default": null, 
+          "help": "Rendez-vous sur le portail développeurs de Discord, dans la section \"bot\", cliquez sur \"Copy token\""
+        },
+        {
+          "type": "string", 
+          "name": "guildId",
+          "description": "ID du serveur", 
+          "required": true, 
+          "default": "782644006190055486", 
+          "help": "https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID" 
+        }
+      ]
     }
   ]
 }
