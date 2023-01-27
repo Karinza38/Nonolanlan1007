@@ -5,7 +5,7 @@
       "path": "configs/config.json", 
       "values": [
         {
-          "type": "string",
+          "type": "password",
           "name": "token",
           "description": "Token du bot",
           "required": true,
