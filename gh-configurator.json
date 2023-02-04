@@ -34,6 +34,18 @@
           "required": false
         }
       ]
+    },
+    {
+      "type": "json", 
+      "path": "configs/channels.json", 
+      "values": [
+        {
+          "type": "string",
+          "name": "logs",
+          "description": "Salon de logs du bot",
+          "required": true
+        }
+      ]
     }
   ]
 }
