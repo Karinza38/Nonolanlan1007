@@ -1,6 +1,7 @@
 {
   "configs": [
     {
+      "name": "Configuration générale",
       "type": "json", 
       "path": "configs/config.json", 
       "values": [
@@ -36,6 +37,7 @@
       ]
     },
     {
+      "name": "Configuration des salons",
       "type": "json", 
       "path": "configs/channels.json", 
       "values": [
