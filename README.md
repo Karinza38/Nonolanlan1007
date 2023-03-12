@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonolanlan1007" alt="nonolanlan1007" /></a> </p>
 
-- 🔭 J’en travaille actuellement sur un portfolio
+- 🔭 J’en travaille actuellement sur **Discord Analytics** (vous saurez peut-être bientôt en quoi ça consiste)
 
-- 🌱 J'apprends actuellement **VueJS**
+- 🌱 J'apprends actuellement **VueJS** et **NextJS**
 
-- 📫 Contactez-moi/Engagez-mo **nolhan.dev@gmail.com**
+- 📫 Contactez-moi/Engagez-moi : **nolhan.dev@gmail.com**
 
 - ⚡ Fun fact **J’aime beaucoup les jeux de simulation 👀**
 
