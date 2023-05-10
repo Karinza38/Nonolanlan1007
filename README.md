@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonolanlan1007" alt="nonolanlan1007" /></a> </p>
 
-- 🔭 J’en travaille actuellement sur **Discord Analytics** (vous saurez peut-être bientôt en quoi ça consiste)
+- 🔭 J’en travaille actuellement sur **[Discord Analytics](https://discordanalytics.xyz)**
 
 - 🌱 J'apprends actuellement **VueJS** et **NextJS**
 
