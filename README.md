@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonolanlan1007&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nonolanlan1007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonolanlan1007&show_icons=true&theme=onedark&locale=en" alt="nonolanlan1007" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P575I1D)
