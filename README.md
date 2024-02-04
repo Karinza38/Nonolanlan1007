@@ -7,7 +7,7 @@
 
 - 🔭 J’en travaille actuellement sur **[Discord Analytics](https://discordanalytics.xyz)**
 
-- 🌱 J'apprends actuellement **VueJS** et **NextJS**
+- 🌱 J'apprends actuellement **VueJS**
 
 - 📫 Contactez-moi/Engagez-moi : **nolhan.dev@gmail.com**
 
